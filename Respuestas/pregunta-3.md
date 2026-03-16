@@ -1,0 +1,1 @@
+db.sensores.find({zona:"planta"},{_id:0,sensor_id:1,temperatura:1})
